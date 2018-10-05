@@ -8,7 +8,7 @@ Third lab for CSE 438: Mobile Application Development. Simple drawing app follow
 </p>
 <p>
 
-<img align="center" src="drawingAppScreenshot.png" height="350">
+<img align="center" src="drawingAppScreenshot.png" height="400">
 </p>
 <br>
 
